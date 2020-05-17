@@ -1,12 +1,12 @@
 # SimpleDB
 A simple database project from MIT 6.380
 
-## MIT course
-1. course: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm
-2. labs: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/assignments/
-3. https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
-4. berkeley: https://cs186berkeley.net/
-5. youtube: https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK
+## References
+1. Course: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm
+2. Labs: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/assignments/
+3. Doc: https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+4. UC Berkeley: https://cs186berkeley.net/
+5. Youtube: https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK
 6. https://github.com/DevinZ1993/SimpleDB-Database-System
 
 ## Build and Test
