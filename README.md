@@ -6,6 +6,8 @@ A simple database project from MIT 6.380
 2. labs: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/assignments/
 3. https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 4. berkeley: https://cs186berkeley.net/
+5. youtube: https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK
+6. https://github.com/DevinZ1993/SimpleDB-Database-System
 
 ## Build and Test
 This is a standard ant project, so you can run `ant` under the root dictionary, and the test can be run by `ant test`.
@@ -29,4 +31,3 @@ If you use IDEA to run this project, you can change the .idea/xxx.imp file to:
   </component>
 </module>
 ```
->>>>>>> First commit
