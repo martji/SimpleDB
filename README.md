@@ -1,5 +1,5 @@
 # SimpleDB
-A simple database project from MIT 6.380
+A simple database project from MIT 6.830
 
 ## References
 1. Course: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm
