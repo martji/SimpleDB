@@ -13,7 +13,7 @@ A simple database project from MIT 6.380
 This is a standard ant project, so you can run `ant` under the root dictionary, and the test can be run by `ant test`.
 
 ## Help
-If you use IDEA to run this project, you can change the .idea/xxx.imp file to:
+If you use IDEA to open this project, you can change the .idea/SimpleDB.imp file to:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
